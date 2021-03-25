@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleAppSpinner</string>
+    <string-array name="lang">
+        <item> Java </item>
+        <item> C# </item>
+        <item> Python </item>
+        <item> C++ </item>
+    </string-array>
+</resources>
